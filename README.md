@@ -20,7 +20,7 @@ A credit-risk manager needs to answer three questions before a risk committee me
 
 The dashboard exists to answer these three questions — not to show every metric
 the data could produce. Every visual on every page maps to one of the questions
-in the [Question Map](questions/question-map.md). If a visual didn't answer a question,
+in the [Question Map](https://github.com/MiltonGreat/Stress-Testing-Dashboard-/blob/main/governance/question-map.md). If a visual didn't answer a question,
 it wasn't built.
 
 ---
