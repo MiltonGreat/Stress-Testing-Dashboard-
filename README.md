@@ -149,7 +149,7 @@ Full list in [governance/limitations.md](governance/limitations.md). Key constra
 - **To see the dashboard:** open the screenshots above, or download the `.pbix`
   from `/pbix` and open in Power BI Desktop.
 - **To understand the analysis:** read the three page descriptions above, then
-  the [Question Map](questions/question-map.md) for the full logic.
+  the [Question Map](https://github.com/MiltonGreat/Stress-Testing-Dashboard-/blob/main/governance/question-map.md) for the full logic.
 - **To audit the numbers:** start with [Assumptions](governance/assumptions.md),
   then [DAX Measures](docs/methodology/dax-measures.md).
 
